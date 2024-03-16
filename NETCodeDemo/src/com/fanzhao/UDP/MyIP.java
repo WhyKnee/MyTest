@@ -1,4 +1,4 @@
-package com.fanzhao.Demo1;
+package com.fanzhao.UDP;
 
 import javax.imageio.IIOParam;
 import java.net.Inet4Address;

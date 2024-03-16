@@ -1,13 +1,10 @@
-package com.fanzhao.Demo1.pratice;
+package com.fanzhao.UDP.pratice;
 
 import java.io.IOException;
 import java.net.DatagramPacket;
 import java.net.DatagramSocket;
-import java.sql.Time;
-import java.sql.Timestamp;
 import java.text.SimpleDateFormat;
 import java.util.Date;
-import java.util.Timer;
 
 public class Reciever {
     public static void main(String[] args) throws IOException {

@@ -1,11 +1,8 @@
-package com.fanzhao.Demo1;
+package com.fanzhao.UDP;
 
 import java.io.IOException;
 import java.net.DatagramPacket;
 import java.net.DatagramSocket;
-import java.net.InetAddress;
-import java.net.SocketException;
-import java.nio.charset.StandardCharsets;
 
 public class UDPSend {
     public static void main(String[] args) throws IOException {

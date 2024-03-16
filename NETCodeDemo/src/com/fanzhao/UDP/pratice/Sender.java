@@ -1,9 +1,8 @@
-package com.fanzhao.Demo1.pratice;
+package com.fanzhao.UDP.pratice;
 
 import java.io.IOException;
 import java.net.DatagramPacket;
 import java.net.DatagramSocket;
-import java.net.SocketException;
 import java.util.Scanner;
 
 public class Sender {

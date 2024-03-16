@@ -1,4 +1,4 @@
-package com.fanzhao.Demo1.pratice;
+package com.fanzhao.UDP.pratice;
 
 import java.net.InetAddress;
 import java.net.UnknownHostException;
